@@ -1,0 +1,1 @@
+Project uncovers the different sides of the Laravel framework
